@@ -8,7 +8,11 @@ body {
     font-family: cascadia code;
   }
 
-
+.cascadia-code-<uniquifier> {
+  font-family: "Cascadia Code", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
   
   .container2 {
     z-index: 2;
